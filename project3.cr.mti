@@ -1,0 +1,115 @@
+C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Square.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Square.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module square
+
+Top level modules:
+	square
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/clock_divider.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/clock_divider.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module clock_divider
+
+Top level modules:
+	clock_divider
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Rhomboid.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Rhomboid.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Rhomboid
+
+Top level modules:
+	Rhomboid
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/incrementer.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/incrementer.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module incrementer
+
+Top level modules:
+	incrementer
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/amplitude.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/amplitude.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module amplitude
+
+Top level modules:
+	amplitude
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/WaveformGeneratorProssecor.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/WaveformGeneratorProssecor.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module WaveformGeneratorProssecor
+
+Top level modules:
+	WaveformGeneratorProssecor
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/counter8.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/counter8.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter8
+
+Top level modules:
+	counter8
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/TB_function_generator.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/TB_function_generator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_function_generator
+
+Top level modules:
+	TB_function_generator
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/rom_bb.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/rom_bb.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/TB_WaveformGenerator.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/TB_WaveformGenerator.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module TB_WaveGeneratorProssecor
+
+Top level modules:
+	TB_WaveGeneratorProssecor
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Sin_wave.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Sin_wave.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Sin_wave
+
+Top level modules:
+	Sin_wave
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Sin_Half.v {0 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Sin_Half.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Sin_half_wave
+** Error: C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Sin_Half.v(41): Register is illegal in left-hand side of continuous assignment
+
+} {4.0 5.0} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/FunctionGenerator.vo {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/FunctionGenerator.vo
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FunctionGenerator
+-- Compiling module hard_block
+
+Top level modules:
+	FunctionGenerator
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Reciprocal.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Reciprocal.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Reciprocal
+
+Top level modules:
+	Reciprocal
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/register_inc.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/register_inc.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/rom.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/rom.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Triangle.v {1 {vlog -work work C:/Users/Aryan/Desktop/University/online_courses/DLDLAB/project3/Triangle.v
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Triangle
+
+Top level modules:
+	Triangle
+
+} {} {}}
